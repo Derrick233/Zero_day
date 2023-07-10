@@ -1,4 +1,3 @@
-#My README.md Markdown
-**I am delighsted to embark on this project**
-*I can do this!*
-Its so cool
+#MY FIRST MARKDOWN
+*I got this*
+**I CAN DO IT**
