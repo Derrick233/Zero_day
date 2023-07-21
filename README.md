@@ -1,3 +1,1 @@
-#MY FIRST MARKDOWN
-*I got this*
-**I CAN DO IT**
+Welcome to the Zero Day repository! This project is designed to guide you through the installation of Vagrant and Ubuntu on your local machine. Vagrant is a tool that allows you to create and manage virtual environments, while Ubuntu is a popular Linux distribution often used for development and testing purposes.
